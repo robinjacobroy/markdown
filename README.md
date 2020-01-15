@@ -18,8 +18,8 @@ This repo contains the files to run the **CASSPER** semantic segmentation suite.
 
 Button | Description | 
 --- | --- |
-Left | Draw box
-Right | Move box
+Left | Draw box while labeling ice
+Left | To click on the four corners of the carbon contamination
 
 #### Keyboard Shortcuts
 
@@ -29,6 +29,6 @@ Shortcut | Description |
 <kbd>c</kbd> | color carbon contamination |
 <kbd>f</kbd> | save the current label |
 <kbd>q</kbd> | ignore the current micrograph |
-<kbd>space</kbd> | save the current ice patch while labeling ice |
+<kbd>Space</kbd> | save the current ice patch while labeling ice |
 <kbd>ESC</kbd> | Finish labeling ice patches |
-<kbd>n</kbd> | Finish labeling while carbon contamination annotation  |
+<kbd>ESC</kbd> | Finish labeling while carbon contamination annotation  |

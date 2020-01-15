@@ -33,4 +33,6 @@ Shortcut | Description |
 <kbd>ESC</kbd> | Finish labeling ice patches |
 <kbd>ESC</kbd> | Finish labeling while carbon contamination annotation |
 ----
-![color ice] (./ice.png)
+![color ice](./ice.png)
+
+

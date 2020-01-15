@@ -1,4 +1,4 @@
-# CASSPER
+# CASSPER-Cryo EM hunt
 
 This repo contains the files to run the **CASSPER** semantic segmentation suite. 
 

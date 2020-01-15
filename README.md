@@ -31,4 +31,6 @@ Shortcut | Description |
 <kbd>q</kbd> | ignore the current micrograph |
 <kbd>Space</kbd> | save the current ice patch while labeling ice |
 <kbd>ESC</kbd> | Finish labeling ice patches |
-<kbd>ESC</kbd> | Finish labeling while carbon contamination annotation  |
+<kbd>ESC</kbd> | Finish labeling while carbon contamination annotation |
+----
+![color ice] (./ice.png)

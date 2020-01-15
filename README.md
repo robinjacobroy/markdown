@@ -1,4 +1,4 @@
-# CASSPER-Cryo EM hunt
+# CASSPER: A Semantic Segmentation based Particle Picking Algorithm for Single Particle Cryo-Electron Microscopy
 
 This repo contains the files to run the **CASSPER** semantic segmentation suite. 
 
@@ -12,3 +12,23 @@ This repo contains the files to run the **CASSPER** semantic segmentation suite.
 * Now adjust the `threshold` and `contour_area` trackbars to get the labels of the desired protien particles only.
 ----
 ![label generator](./image.png)
+### Instruction manual
+
+#### Mouse control
+
+Button | Description | 
+--- | --- |
+Left | Draw box while labeling ice
+Left | To click on the four corners of the carbon contamination
+
+#### Keyboard Shortcuts
+
+Shortcut | Description | 
+--- | --- |
+<kbd>i</kbd> | color ice |
+<kbd>c</kbd> | color carbon contamination |
+<kbd>f</kbd> | save the current label |
+<kbd>q</kbd> | ignore the current micrograph |
+<kbd>Space</kbd> | save the current ice patch while labeling ice |
+<kbd>ESC</kbd> | Finish labeling ice patches |
+<kbd>ESC</kbd> | Finish labeling while carbon contamination annotation  |
